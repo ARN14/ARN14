@@ -1,7 +1,7 @@
 ## Currently Working On
 Cleaning up older projects that I worked on before creating my Github account, and uploading them to Github.  
-One of those projects is a Yelp clone API in Javascript, which I worked on in the Northcoders Bootcamp. I'm currently implementing allowing users to add reviews to a restauraunt.  
-Repo here: https://github.com/ARN14/restaurant-reviews
+Currently for a Microsoft certification in Azure AI fundamentals.  
+
 ## My Coding Journey
 ### 2023
 - 💻 <a href=https://github.com/ARN14/NC-Data-Engineering-Project-G1>Northcoders Data Engineering Final Project</a>  
