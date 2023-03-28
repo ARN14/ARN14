@@ -1,5 +1,5 @@
 ## Currently Working On
-Cleaning up older projects that I worked on before creating my Github account, and uploading them to Github.  
+Cleaning up older projects that I worked on before creating my Github account, and uploading them.  
 Currently studying for a Microsoft certification in Azure AI fundamentals.  
 
 ## My Coding Journey
