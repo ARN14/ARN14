@@ -25,6 +25,7 @@ Currently studying for a Microsoft certification in Azure AI fundamentals.
 - Learning Unity
 ### 2019
 - Completed <a href=https://www.hackingwithswift.com/100>100 Days of Swift</a>
+- Other projects: Capital Cities Map, Phonebook, Whack-A-Mole, Hangman, 
 - 💻 <a href=https://github.com/ARN14/Storm-Viewer>Storm Viewer</a>  
   Swift and XCode: Swift Language Basics, File Manager, UI (Text, Buttons), Web views, SpriteKit
 ### 2018
