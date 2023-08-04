@@ -1,6 +1,6 @@
 ## Currently Working On
-Cleaning up older projects that I worked on before creating my Github account, and uploading them.  
-Currently studying for a Microsoft certification in Azure AI fundamentals.  
+I've been cleaning up projects that I worked on during my time as a trainee Data Engineer at Northcoders. 
+I'm learning C# and want to start a project using it, as I have just been awarded a Microsoft certification in Azure AI fundamentals, and I am currently studying for a Data Engineering Cert from Microsoft. I'm hoping to build up my skills in C# along the Azure infrastructure.
 
 ## My Coding Journey
 ### 2023
